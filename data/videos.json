@@ -1,0 +1,299 @@
+{
+    "modules": [
+        {
+            "title": "Что такое самодисциплина и зачем она нужна",
+            "videos": [
+                {
+                    "title": "Введение",
+                    "path": "https://youtu.be/aUAeF_tehe0?si=Lk6ZkUQfzSYcDfhy"
+                },
+                {
+                    "title": "Дисциплина это свобода, а не клетка",
+                    "path": "https://youtu.be/xsSJhERmTZo?si=AyUJ6z48brZOyxfp"
+                },
+                {
+                    "title": "Самодисциплина как главный предиктор успеха",
+                    "path": "https://youtu.be/ruLQr3nrex8?si=Z1i2bxs0yE7qk1R0",
+                    "materials": [
+                        {
+                            "title": "Способность детей контролировать свои порывы лучше предсказывает успех по жизни, чем IQ",
+                            "url":" http://journals.sagepub.com/doi/pdf/10.1111/j.1467-9280.2005.01641.x"
+                        },
+                        {
+                            "title": "Исследование 2009 года, люди с высокой дисциплиной больше удовлетворены своей работой, вне зависимости от финансового положения и уровня жизни",
+                            "url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747784/pdf/nihms128885.pdf"
+                        },
+                        {
+                            "title": "Людям с высокой самодисциплиной легче найти работу, вне зависимости от других факторов.",
+                            "url":"https://www.sciencedirect.com/science/article/abs/pii/S0167487011000481"
+                        },
+                        {
+                            "title": "Дисциплинированные люди имеют более долгие браки, вне зависимости от других факторов",
+                            "url":"http://journals.sagepub.com/doi/pdf/10.1177/0265407511431183"
+                        },
+                        {
+                            "title": "Чем дольше ребенок может себя сдерживать, тем лучше у него карьера",
+                            "url":"http://www.pnas.org/content/pnas/early/2011/01/20/1010076108.full.pdf"
+                        }
+                        
+                    ]
+                },
+                {
+                    "title": "Дисциплина как главный источник счастья",
+                    "path": "https://youtu.be/pZuktRjGHtc?si=3IBClgBwaphvGOJk",
+                    "materials": [
+                        {
+                            "title": "Да, дисциплинированные люди более счастливы. Исследование Вильгельма Хоффмана",
+                            "url": "http://onlinelibrary.wiley.com/doi/10.1111/jopy.12050/abstract"
+                        },
+                        {  
+                        "title": "Пятилетнее исследование 2017 года, которое показало, что уровень дисциплины напрямую связан с субъективным ощущением счастья.",
+                        "url": "http://onlinelibrary.wiley.com/doi/10.1111/jopy.12322/full"
+                    }
+                    ]
+                },
+                {
+                    "title": "Полезные факты",
+                    "path": "https://youtu.be/Uzm8InJI4PE?si=feOYEEmcNBiOEGsE",
+                    "materials": [
+                        {
+                            "title": "Исследование 2005 года, обнаружившее, что люди с лучшей самодисциплиной дольше всех сохраняют память в старости",
+                            "url": "https://academic.oup.com/psychsocgerontology/article/60/3/P153/559392"
+                        },
+                        {  
+                        "title": "Исследование 2004 года, указавшее на факт того, что дисциплинированные люди имеют лучше социальные связи, ментальное здоровье и отличаются эмоциональной стабильностью",
+                        "url": "https://www.ncbi.nlm.nih.gov/pubmed/15016066"
+                    },
+                    {  
+                        "title": "Дисциплинированные люди действую проактивно, а недисциплинированные — реактивно.",
+                        "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00722/full"
+                    }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "От чего зависит самодисциплина",
+            "videos": [
+                {
+                    "title": "Зачем ты это делаешь",
+                    "path": "https://youtu.be/lcx_Y9_LuVY?si=6zgBuPCSdbIX1qGi"
+                },
+                {
+                    "title": "Чем отличается дисциплинированный человек",
+                    "path": "https://youtu.be/jw3IfTIKHB4?si=-rTMuIY8vHhUsi1q"
+                },
+                {
+                    "title": "Путь наименьшего сопротивления",
+                    "path": "https://youtu.be/5DcBjCMCzv0?si=LHeVUQ_RjCzB327d"
+                },
+                {
+                    "title": "Ответственность",
+                    "path": "https://youtu.be/dktxk5EvXbs?si=EZ22ennB2nJWS2K_"
+                },
+ {
+                    "title": "Резкая пруха и резкий провал",
+                    "path": "https://youtu.be/VKFCCl3M-Eg?si=d00IgG1XGlqNP8Br"
+                }
+            ]
+        },
+        {
+            "title": "Дофамин",
+            "videos": [
+                {
+                    "title": "Вступление о дофамине",
+                    "path": "https://youtu.be/SZUC0KqZZlk?si=dLb-Jwdadqz8C-K4"
+                },
+                {
+                    "title": "Дофаминовые ловушки - вступление",
+                    "path": "https://youtu.be/LXuhmZoSEyM?si=2-9HBq8Y9JL8-HYV"
+                },
+                {
+                    "title": "Дофаминовые ловушки - аспартам",
+                    "path": "https://youtu.be/meWl40XBySA?si=ovyZBAJ0xBzFxuRe"
+                },
+                {
+                    "title": "Дофаминовые ловушки - жир и фудпорно",
+                    "path": "https://youtu.be/Cmranzdi1ik?si=wVK4rahPO2GrjD5Y"
+                },
+                {
+                    "title": "Дофаминовые ловушки - социальные сети",
+                    "path": "https://youtu.be/GYoxLBv4XwM?si=RiB_juQE6ATKRJxj"
+                },
+                {
+                    "title": "Дофаминовые ловушки - игры и порно",
+                    "path": "https://youtu.be/PiTQ1t4RCwU?si=ABn9oVKe1MN7z2JB"
+                },
+                {
+                    "title": "Дофаминовые ловушки - Новизна, болезни, голубой свет",
+                    "path": "https://youtu.be/v579bW9tmiM?si=DdkckX0UXKHWuPge"
+                },
+                {
+                    "title": "Дофаминовые ловушки, которые ЛОМАЮТ вашу СИЛУ ВОЛИ. Сахар",
+                    "path": "https://youtu.be/f9JDLzBDr1Q?si=7lP2Hy7b2kugIAJz"
+                }
+            ]
+        },
+        {
+            "title": "Перезагрузка дофаминовой системы",
+            "videos": [
+                {
+                    "title": "Дофаминовая перезагрузка - вступление",
+                    "path": "https://youtu.be/Wv2xNTKKrUo?si=-RUbiZtcIbCF773F"
+                },
+                {
+                    "title": "Дофаминовая перезагрузка - пространство",
+                    "path": "https://youtu.be/EANL_ppFPWA"
+                },
+                {
+                    "title": "Дофаминовая перезагрузка - игры, социальные сети и порно",
+                    "path": "https://youtu.be/edKAXmq9nuI"
+                },
+                {
+                    "title": "Дофаминовая перезагрузка - питание",
+                    "path": "https://youtu.be/_e3H49bTMyU"
+                },
+                {
+                    "title": "Дофаминовая перезагрузка - маленькие удовольствия и голодание",
+                    "path": "https://youtu.be/mwCbuT2gX44"
+                },
+                {
+                    "title": "Дофаминовая перезагрузка - медитация, сон, душ и спорт",
+                    "path": "https://youtu.be/1w6T4xSwV6s"
+                }
+            ]
+        },
+        {
+            "title": "Вечное здоровье дофаминовой системы",
+            "videos": [
+                {
+                    "title": "Питание",
+                    "path": "https://youtu.be/hT-JfIAPmKg"
+                },
+                {
+                    "title": "Cтиль жизни",
+                    "path": "https://youtu.be/5WczdR_lf2w"
+                }
+            ]
+        },
+        {
+            "title": "Дрессируем себя с помощью дофамина",
+            "videos": [
+                {
+                    "title": "Формируем дисциплину, используя дофамин",
+                    "path": "https://youtu.be/m-bgLTJcgDE"
+                },
+                {
+                    "title": "Дофаминовые лайфхаки",
+                    "path": "https://youtu.be/cooC0fNhrR0"
+                }
+            ]
+        },
+        {
+            "title": "Серотонин",
+            "videos": [
+                {
+                    "title": "Что такое серотонин",
+                    "path": "https://youtu.be/LmdRgXxfpfg"
+                },
+                {
+                    "title": "Улучшаем серотонин",
+                    "path": "https://youtu.be/shQQQ4pqEt4"
+                }
+            ]
+        },
+        {
+            "title": "Нейропластичность для самодисциплины",
+            "videos": [
+                {
+                    "title": "Что такое нейропластичность",
+                    "path": "https://youtu.be/QpRrrhh8yac"
+                },
+                {
+                    "title": "Нейропластичность - изменяем свой мозг",
+                    "path": "https://youtu.be/ZAs7q3e--9E"
+                },
+                {
+                    "title": "Осознанность и нейропластичность",
+                    "path": "https://youtu.be/djOWEqbiEIY"
+                },
+                {
+                    "title": "Нейропластичность - квантовое мышление",
+                    "path": "https://youtu.be/NbHuXBI9bpI"
+                },
+                {
+                    "title": "Нейропластичность - осознанность часть вторая",
+                    "path": "https://youtu.be/FJndfi63MNU"
+                },
+                {
+                    "title": "Зацепки",
+                    "path": "https://youtu.be/WG5e29dqBJk"
+                }
+            ]
+        },
+        {
+            "title": "Как работать со своей головой",
+            "videos": [
+                {
+                    "title": "Четыре столпа изменений",
+                    "path": "https://youtu.be/0PvrgySdVkE"
+                },
+                {
+                    "title": "Утренний и вечерний ритуал",
+                    "path": "https://youtu.be/Seyun2v1PGI"
+                }
+            ]
+        },
+        {
+            "title": "Принципы дисциплинированной жизни",
+            "videos": [
+                {
+                    "title": "Помни о смерти",
+                    "path": "https://youtu.be/btwie0z921w"
+                },
+                {
+                    "title": "Твое окружение - четыре принципа",
+                    "path": "https://youtu.be/bfteHr3ZRRg"
+                }
+            ]
+        },
+        {
+            "title": "Дополнительные инструменты для силы воли",
+            "videos": [
+                {
+                    "title": "Ранний подъем",
+                    "path": "https://youtu.be/JX68ULuhdfc"
+                },
+                {
+                    "title": "Изменчивость сердечного ритма",
+                    "path": "https://youtu.be/jOEe5yM96cQ"
+                },
+                {
+                    "title": "Уровень сахара в крови",
+                    "path": "https://youtu.be/66db2NDWZOg"
+                },
+                {
+                    "title": "Ужасы",
+                    "path": "https://youtu.be/UVquYbmqwXU"
+                },
+                {
+                    "title": "Медитация",
+                    "path": "https://youtu.be/EzqPk69DYps"
+                },
+                {
+                    "title": "Cамый крайний вариант",
+                    "path": "https://youtu.be/xxtybeqYzeg"
+                }
+            ]
+        },
+        {
+            "title": "Подводим итоги и составляем инструкцию",
+            "videos": [
+                {
+                    "title": "Подводим итоги",
+                    "path": "https://youtu.be/_4Ok-_AwRbE"
+                }
+            ]
+        }
+    ]
+}
